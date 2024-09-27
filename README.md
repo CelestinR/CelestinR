@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CelestinR
 - 👀 I’m interested in software development and programming
-- 🌱 I’m currently learning programming at NBCC
+- 🌱 I graduated from NBCC in software development 
 - 💞️ I’m looking to collaborate on web and software development
 - 📫 You can reach me at celestinerukeratabaro@yahoo.com
